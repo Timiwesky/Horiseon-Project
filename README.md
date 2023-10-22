@@ -22,4 +22,4 @@ refer to the license in the repo
 
 ## website link 
 
-https://github.com/Timiwesky/Horiseon-Project
+https://timiwesky.github.io/Horiseon-Project/
