@@ -10,7 +10,7 @@ N/A
 
 ## usage 
 
-Its a challenge
+N/A
 
 ## credits
 
